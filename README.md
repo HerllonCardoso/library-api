@@ -33,7 +33,7 @@ APIs com NodeJS
   Para utilizar a api você deve simular com o [Insomnia](https://insomnia.rest/).
   
  - Para cadastrar um livro, utilizar a url: http://localhost:3333/books
- - Para listar todos os livros cadastrados, utilizar a url: http://localhost:4444/books
+ - Para listar todos os livros cadastrados, utilizar a url: http://localhost:3333/books
  - Para alterar os dados de um livro, utilizar a url: http://localhost:3333/books/book-id
  - Para deletar um livro, utilizar a url: http://localhost:3333/books/book-id
  - Para o livro receber um like, deve utilizar a url: http://localhost:3333/books/book-id/like
