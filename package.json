@@ -1,0 +1,14 @@
+{
+  "name": "api-crud",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "uuidv4": "^6.2.4"
+  }
+}
