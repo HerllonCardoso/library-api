@@ -10,7 +10,7 @@
   <a href="#-executando-a-api">Executando a API</a>
   
   <p align="center">
-  <img alt="Happy" src="src/.github/insomnia.png" width="100%">
+  <img alt="Insomnia" src="https://i.imgur.com/Qnd42q2.png" width="100%">
 </p>
 </p>
 
